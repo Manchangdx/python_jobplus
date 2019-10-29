@@ -1,5 +1,5 @@
 Faker==0.8.13
-Flask==0.12.2
+Flask==1.0
 flask-login==0.4.1
 marshmallow==2.13.6
 hiredis==0.2.0
